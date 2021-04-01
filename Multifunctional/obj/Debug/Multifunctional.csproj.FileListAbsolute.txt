@@ -1,0 +1,15 @@
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\bin\Debug\Multifunctional.exe.config
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\bin\Debug\Multifunctional.exe
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\bin\Debug\Multifunctional.pdb
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.csprojAssemblyReference.cache
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Atm.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Games.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Login.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Menu.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Properties.Resources.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Register.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.Scrissors.resources
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.csproj.GenerateResource.cache
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.exe
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.pdb
+C:\Users\Anti\source\repos\Multifunctional\Multifunctional\obj\Debug\Multifunctional.tictac.resources
